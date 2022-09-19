@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DetLifeInsurance",
+    "oncran": true
+  }
+]
